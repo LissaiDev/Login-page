@@ -1,0 +1,23 @@
+/*Configuracoes gerais*/
+html,body{
+	height: 100%;
+}
+body{
+	background-color: #f1efe9;
+}
+.borda{
+	border:1px solid red;
+}
+#caixa-formulario{
+	background-color: rgba(255,255,255,0.4);
+}
+
+	/*Fontes*/
+	/*Links*/
+	/*Tipografia*/
+/*Configuracoes no cabecalho*/
+	/*Configuracoes na barra de navegacao*/
+	/*Configuracoes em botoes*/
+	/*Configuracoes na barra de pesquisa*/
+/*Configuracoes no corpo*/
+/*Configuracoes no rodape*/
